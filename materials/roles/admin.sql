@@ -1,0 +1,4 @@
+CREATE ROLE
+steam_admin
+SUPERUSER
+LOGIN PASSWORD 'admin';
